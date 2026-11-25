@@ -30,3 +30,4 @@ def test_tax_30_percent():
 
 def test_net_income():
     assert net_income(800000) == 727500
+
